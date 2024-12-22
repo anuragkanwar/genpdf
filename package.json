@@ -1,0 +1,23 @@
+{
+  "name": "docusaurus-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^12.1.0",
+    "express": "^4.21.2",
+    "fs-extra": "^11.2.0",
+    "puppeteer": "^23.11.1",
+    "puppeteer-autoscroll-down": "^2.0.0",
+    "puppeteer-core": "^23.11.1"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
